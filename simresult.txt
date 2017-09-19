@@ -1,0 +1,22 @@
+=================== Simulation Result ============================
+ Date:Thu Oct 15 17:31:22 IST 2015
+
+ Analyzed File: *.tr in /home/spiro/prasanth_VIT
+
+==================================================================
+ Total Remained Energy    : 18.971406
+ Average Remained Energy  : 1.8971406
+ Energy Difference        : 0.27403008
+ Packet Delivery Ratio    : 29.1477272727273
+ Average End2End Delay    : 1.71928395652047
+ Average Number of Hops   : 1.0009746588694
+ Throughput               : 104656.633975974
+ Data Packets Sent        : 3520
+ Data Packets Received    : 1026
+ Simulation Endtime       : 9.999557221
+ Total Delivery Time      : 1763.98533939
+ Total Number of Hops     : 1027
+ Dropped Reply Messages   : 6
+ Maximum Number of Hops   : 2
+ Minimum Number of Hops   : 1
+==================================================================

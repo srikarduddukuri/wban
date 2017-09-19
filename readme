@@ -1,0 +1,15 @@
+cd project2
+cd proposed
+ns main.tcl
+
+cd xgraph
+
+xgraph ndn.xg
+xgraph nln.xg
+xgraph bandwidth.xg
+xgraph ctrpak.xg
+xgraph dpr.xg
+xgraph dps.xg
+xgraph e2e.xg 
+xgraph pdr.xg
+xgraph thr.xg
